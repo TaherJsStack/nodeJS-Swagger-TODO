@@ -1,0 +1,24 @@
+{
+    "Password": "Password*",
+    "MobileNumber": "Mobile Number",
+    "Name": "Name*",
+    "NewDataExists": "New Data Exists",
+    "NoToken": "No Token, Authorization Denied!",
+    "DataAddedSuccessfully": "New Data Added Successfully",
+    "Error": "Error",
+    "DoneSuccessfully": "Done Successfully",
+    "EmailAlreadyUsed": "E-mail Already Used",
+    "EnterEmail": "Enter Your Email Address Please!",
+    "EnterValidEmail": "Enter A Valid E-mail Address Please!",
+    "EnterPassword": "Enter Your Password Please!",
+    "EnterPhone": "Enter Your Phone Please!",
+    "EnterValidPhoneNumber": "Please Enter A Aalid Phone Number!",
+    "EnterName": "Enter Your Name Please!",
+    "EnterValidName": "Enter A Valid Name",
+    "Characters": "characters",
+    "MustBeAtLeast": "Must be at least 6",
+    "ValueIsNotSupported": "VALUE is not supported",
+    "HttpstatusUnauthorized": "httpstatus unauthorized",
+    "IsNotValidPhoneNumber": "is not a valid phone number must be 11 number"
+
+}

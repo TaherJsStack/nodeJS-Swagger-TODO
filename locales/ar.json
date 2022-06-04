@@ -1,0 +1,23 @@
+{
+    "Password": "كلمه السر*",
+    "MobileNumber": "رقم الموبايل",
+    "Name": "الاسم*",
+    "NewDataExists": "البيانات الجديده موجوده",
+    "NoToken": "! غير مسموح المرور برجاء التسجيل اولا ،لا يوجد رمز ، رفض الإذن",
+    "DataAddedSuccessfully": "تمت إلاضافة بنجاح",
+    "Error": "خطأ",
+    "DoneSuccessfully": "تم بنجاح",
+    "EmailAlreadyUsed": "البريد الإلكتروني مستخدم بالفعل",
+    "EnterEmail": "أدخل عنوان البريد الإلكتروني من فضلك!",
+    "EnterValidEmail": "أدخل عنوان البريد الإلكتروني صالح من فضلك!",
+    "EnterPassword": "ادخل كلمة السر",
+    "EnterPhone": "يرجى ادخال رقم الهاتف",
+    "EnterValidPhoneNumber": "يرجى ادخال رقم هاتف صالح",
+    "EnterName": "أدخل اسم من فضلك! ",
+    "EnterValidName": "أدخل اسمًا صحيحًا",
+    "Characters": "حرف",
+    "MustBeAtLeast": "لا بد أن يكون على الأقل",
+    "ValueIsNotSupported": "القيمة غير مدعومة",
+    "HttpstatusUnauthorized": "حالة HTTP غير مصرح بها",
+    "IsNotValidPhoneNumber": "ليس رقم هاتف صالحًا يجب أن يكون 11 رقم"
+}
